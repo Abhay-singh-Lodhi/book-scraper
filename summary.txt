@@ -1,0 +1,6 @@
+Summary Report:
+  Total Books Scraped: 517
+  Average Rating: 2.90
+
+  This dataset contains book details including title, price, availability, rating, description, and product info.
+  
